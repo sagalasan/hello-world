@@ -1,3 +1,3 @@
 # hello-world
-First
+First\n
 This is interesting
